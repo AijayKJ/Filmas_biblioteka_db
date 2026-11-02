@@ -18,8 +18,7 @@ DB_FAILS = "filmu_biblioteka.db"
 # Katrai tabulai: kolonnas, ko lietotājs aizpilda pats.
 # id, created_at un updated_at datubāze aizpilda automātiski.
 TABULAS = {
-    "movies":    ["title", "release_year", "runtime_minutes", "synopsis",
-                  "director_id", "genre_id", "actor_id", "user_id"],
+    "movies":    ["title", "release_year", "runtime_minutes", "synopsis"],
     "actors":    ["name", "birthday", "nationality"],
     "directors": ["name", "birthday", "nationality"],
     "genres":    ["name", "description"],
