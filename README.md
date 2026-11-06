@@ -12,6 +12,11 @@
   * **Directors** (Režisori)
   * **Genres** (Žanri)
   * **Users** (Lietotāji)
+  * **Studios** (Studija)
+  * **Movie awards** (Filmas balvas)
+  * **Movie cast** (Filmas aktieri)
+  * **Watchlist** (Skatīšanās saraksts)
+  * **Reviews** (Atsauksmes)
 * **Pilns CRUD cikls:** Iespēja pievienot, apskatīt, labot un dzēst ierakstus.
 * **Automātiska datubāze:** Programma pati izveido datubāzi un testa datus pirmajā palaišanas reizē.
 * **Drošība:** Ieslēgtas ārējās atslēgas (`Foreign Keys`) datu integritātei.
