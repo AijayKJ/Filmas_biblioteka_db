@@ -1,4 +1,3 @@
-<img width="1131" height="731" alt="Ekrānuzņēmums 2026-11-06 100529" src="https://github.com/user-attachments/assets/90d19d96-efc8-4262-bb98-701e051c89a4" />
 # Filmu Bibliotēka
 
 Šī ir vienkārša un ērta Python lietojumprogramma ar grafisko interfeisu (GUI), kas ļauj pārvaldīt filmu bibliotēku un glabāt datus SQLite datubāzē.
@@ -34,4 +33,4 @@
 3. Terminālī palaid komandu:
    ```bash
    python main.py
-<img width="855" height="630" alt="Ekrānuzņēmums 2026-10-16 105816" src="https://github.com/user-attachments/assets/de4281bd-8925-4077-9bba-62bc09b866e0" />
+<img width="1131" height="731" alt="Ekrānuzņēmums 2026-11-06 100529" src="https://github.com/user-attachments/assets/90d19d96-efc8-4262-bb98-701e051c89a4" />
