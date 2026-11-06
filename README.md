@@ -1,3 +1,4 @@
+<img width="1131" height="731" alt="Ekrānuzņēmums 2026-11-06 100529" src="https://github.com/user-attachments/assets/90d19d96-efc8-4262-bb98-701e051c89a4" />
 # Filmu Bibliotēka
 
 Šī ir vienkārša un ērta Python lietojumprogramma ar grafisko interfeisu (GUI), kas ļauj pārvaldīt filmu bibliotēku un glabāt datus SQLite datubāzē.
