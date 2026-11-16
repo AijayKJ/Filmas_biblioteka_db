@@ -6,7 +6,7 @@
 
 ## Galvenās iespējas
 
-* **5 Savstarpēji saistītas tabulas:**
+* **10 Savstarpēji saistītas tabulas:**
   * **Movies** (Filmas)
   * **Actors** (Aktieri)
   * **Directors** (Režisori)
