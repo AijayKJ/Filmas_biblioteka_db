@@ -54,12 +54,10 @@ filma.py/
 ├── filmu_biblioteka.db
 ├── README.md
 ├── app/
-│   ├── __init__.py
 │   ├── config.py
 │   ├── database.py
 │   └── library_app.py
 └── ui/
-    ├── __init__.py
     ├── theme.py
     ├── forms.py
     ├── main_window.py
@@ -81,7 +79,6 @@ Esošā SQLite datubāze ar lietotnes datiem. Neizdzēs un neaizstāj šo failu,
 - `config.py` — tabulu kolonnu saraksti, ārējās atslēgas un laukumu nosaukumi latviešu valodā.
 - `database.py` — SQLite savienojums, tabulu izveide, sākotnējie dati un datubāzes inicializācija.
 - `library_app.py` — `FilmuBiblioteka` klase ar ierakstu nolasīšanu, pievienošanu, labošanu, dzēšanu un formas vērtību apstrādi.
-- `__init__.py` — norāda, ka `app` ir Python pakotne. Pašlaik tas ir tukšs, jo īpaša pakotnes inicializācija nav nepieciešama.
 
 ### `ui/` mape
 
@@ -91,7 +88,6 @@ Esošā SQLite datubāze ar lietotnes datiem. Neizdzēs un neaizstāj šo failu,
 - `forms.py` — ievades laukumu un atlases izvēlņu formas veidošana.
 - `main_window.py` — sānu izvēlnes, virsraksta, meklēšanas joslas un galvenā loga izkārtojuma veidošana.
 - `content.py` — ierakstu filtrēšana, datu tabulas parādīšana un atlasītā ieraksta apstrāde.
-- `__init__.py` — norāda, ka `ui` ir Python pakotne. Pašlaik tas ir tukšs, jo īpaša pakotnes inicializācija nav nepieciešama.
 
 ---
 
